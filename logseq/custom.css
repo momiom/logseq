@@ -1,0 +1,8 @@
+:root {
+  --ct-code-font-family: "HackGen35"  ;
+}
+
+:not(pre)>code,
+.CodeMirror {
+  font-family: var(--ct-code-font-family);
+}
