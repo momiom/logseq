@@ -20,29 +20,14 @@
   :block/created-at 1661871611405,
   :block/updated-at 1661871611405}
  {:block/name "2022-09-01 thursday",
-  :block/created-at 1662337997380,
-  :block/updated-at 1662337997380}
+  :block/created-at 1661958010832,
+  :block/updated-at 1662020302404}
  {:block/name "2022-09-02 friday",
   :block/created-at 1662044413162,
   :block/updated-at 1662044413162}
  {:block/name "2022-09-03 saturday",
   :block/created-at 1662130812314,
   :block/updated-at 1662130812314}
- {:block/name "2022-09-05 monday",
-  :block/created-at 1662336686820,
-  :block/updated-at 1662336686820}
- {:block/name "2022-09-06 tuesday",
-  :block/created-at 1662390014609,
-  :block/updated-at 1662390014609}
- {:block/name "2022-09-07 wednesday",
-  :block/created-at 1662476416403,
-  :block/updated-at 1662476416403}
- {:block/name "2022-09-08 thursday",
-  :block/created-at 1662562817553,
-  :block/updated-at 1662562817553}
- {:block/name "2022-09-09 friday",
-  :block/created-at 1662649216963,
-  :block/updated-at 1662649216963}
  {:block/name "a",
   :block/created-at 1661421355373,
   :block/updated-at 1661421355373}
@@ -100,27 +85,15 @@
  {:block/name "おすすめの本と発表内容",
   :block/created-at 1661423026286,
   :block/updated-at 1661423361610}
- {:block/name "おすすめ本「読みたいことを、書けばいい。」",
-  :block/created-at 1662337997078,
-  :block/updated-at 1662337997078}
  {:block/name "おすすめ本「読みたいことを書けばいい」",
-  :block/created-at 1662337997520,
-  :block/updated-at 1662337997520}
+  :block/created-at 1661918728835,
+  :block/updated-at 1661921187548}
  {:block/name "コミットとは何か",
   :block/created-at 1661777362217,
   :block/updated-at 1661777362217}
  {:block/name "ブランチとは何か",
   :block/created-at 1661777282893,
   :block/updated-at 1661777387209}
- {:block/name "人が読みたいもの",
-  :block/created-at 1662337997203,
-  :block/updated-at 1662337997203}
  {:block/name "恵那市stg",
-  :block/created-at 1662337997383,
-  :block/updated-at 1662337997383}
- {:block/name "発表",
-  :block/created-at 1662337997068,
-  :block/updated-at 1662337997068}
- {:block/name "読みたいことを、書けばいい。",
-  :block/created-at 1662337997070, 
-  :block/updated-at 1662337997070}]
+  :block/created-at 1662015554715, 
+  :block/updated-at 1662015564157}]
