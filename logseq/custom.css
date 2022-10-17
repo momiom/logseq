@@ -5,5 +5,5 @@
 :not(pre)>code,
 .CodeMirror {
   /*font-family: var(--ct-code-font-family);*/
-  font-family: "HackGen35", "Source Han Code JP"
+  font-family: "HackGen35", "Source Han Code JP";
 }

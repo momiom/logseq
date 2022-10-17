@@ -8,101 +8,62 @@
   :block/created-at 1662337997380,
   :block/updated-at 1662337997380}
  {:block/name "2022-09-12t02_57_20",
-  :block/created-at 1665966875726,
-  :block/updated-at 1665966875726}
+  :block/created-at 1666015601898,
+  :block/updated-at 1666015601898}
  {:block/name "2022-09-12t02_57_20/508z",
-  :block/created-at 1665966875726,
-  :block/updated-at 1665966875726}
- {:block/name "2022-09-12t02_57_20/508z/desktop",
-  :block/created-at 1665966875725,
-  :block/updated-at 1665966875725}
+  :block/created-at 1666015601899,
+  :block/updated-at 1666015601899}
  {:block/name "2022-09-12t02_57_20/750z",
-  :block/created-at 1665966875780,
-  :block/updated-at 1665966875780}
- {:block/name "2022-09-12t02_57_20/750z/desktop",
-  :block/created-at 1665966875779,
-  :block/updated-at 1665966875779}
+  :block/created-at 1666015602022,
+  :block/updated-at 1666015602022}
  {:block/name "2022-09-12t02_57_20/751z",
-  :block/created-at 1665966875747,
-  :block/updated-at 1665966875747}
- {:block/name "2022-09-12t02_57_20/751z/desktop",
-  :block/created-at 1665966875746,
-  :block/updated-at 1665966875746}
- {:block/name "2022-10-16 sunday",
-  :block/created-at 1665851827523,
-  :block/updated-at 1665851827523}
+  :block/created-at 1666015602056,
+  :block/updated-at 1666015602056}
  {:block/name "2022-10-16t01_26_21",
   :block/created-at 1665966875691,
   :block/updated-at 1665966875691}
  {:block/name "2022-10-16t01_26_21/744z",
-  :block/created-at 1665966875767,
-  :block/updated-at 1665966875767}
- {:block/name "2022-10-16t01_26_21/744z/desktop",
-  :block/created-at 1665966875766,
-  :block/updated-at 1665966875766}
+  :block/created-at 1666015602034,
+  :block/updated-at 1666015602034}
  {:block/name "2022-10-16t01_26_21/783z",
   :block/created-at 1665966875871,
   :block/updated-at 1665966875871}
- {:block/name "2022-10-16t01_26_21/783z/desktop",
-  :block/created-at 1665966875870,
-  :block/updated-at 1665966875870}
  {:block/name "2022-10-16t01_26_21/784z",
-  :block/created-at 1665966875691,
-  :block/updated-at 1665966875691}
- {:block/name "2022-10-16t01_26_21/784z/desktop",
-  :block/created-at 1665966875690,
-  :block/updated-at 1665966875690}
+  :block/created-at 1666015602065,
+  :block/updated-at 1666015602065}
  {:block/name "2022-10-16t01_26_21/872z",
-  :block/created-at 1665966875837,
-  :block/updated-at 1665966875837}
- {:block/name "2022-10-16t01_26_21/872z/desktop",
-  :block/created-at 1665966875836,
-  :block/updated-at 1665966875836}
+  :block/created-at 1666015601878,
+  :block/updated-at 1666015601878}
  {:block/name "2022-10-16t13_31_34",
-  :block/created-at 1665966875792,
-  :block/updated-at 1665966875792}
+  :block/created-at 1666015602043,
+  :block/updated-at 1666015602043}
  {:block/name "2022-10-16t13_31_34/909z",
-  :block/created-at 1665966875792,
-  :block/updated-at 1665966875792}
- {:block/name "2022-10-16t13_31_34/909z/desktop",
-  :block/created-at 1665966875791,
-  :block/updated-at 1665966875791}
+  :block/created-at 1666015602043,
+  :block/updated-at 1666015602043}
  {:block/name "2022-10-17 monday",
   :block/created-at 1665966873437,
   :block/updated-at 1665966873437}
  {:block/name "2022-10-17t09_05_42",
-  :block/created-at 1666013373471,
-  :block/updated-at 1666013373471}
+  :block/created-at 1666015601957,
+  :block/updated-at 1666015601957}
  {:block/name "2022-10-17t09_05_42/031z",
-  :block/created-at 1666013373471,
-  :block/updated-at 1666013373471}
- {:block/name "2022-10-17t09_05_42/031z/desktop",
-  :block/created-at 1666013373471,
-  :block/updated-at 1666013373471}
+  :block/created-at 1666015601987,
+  :block/updated-at 1666015601987}
  {:block/name "2022-10-17t09_05_42/360z",
-  :block/created-at 1666013373551,
-  :block/updated-at 1666013373551}
- {:block/name "2022-10-17t09_05_42/360z/desktop",
-  :block/created-at 1666013373551,
-  :block/updated-at 1666013373551}
+  :block/created-at 1666015601957,
+  :block/updated-at 1666015601957}
  {:block/name "2022-10-17t09_05_47",
-  :block/created-at 1666013373385,
-  :block/updated-at 1666013373385}
+  :block/created-at 1666015601913,
+  :block/updated-at 1666015601913}
  {:block/name "2022-10-17t09_05_47/883z",
-  :block/created-at 1666013373607,
-  :block/updated-at 1666013373607}
- {:block/name "2022-10-17t09_05_47/883z/desktop",
-  :block/created-at 1666013373607,
-  :block/updated-at 1666013373607}
+  :block/created-at 1666015602006,
+  :block/updated-at 1666015602006}
  {:block/name "2022-10-17t09_05_47/913z",
-  :block/created-at 1666013373386,
-  :block/updated-at 1666013373386}
- {:block/name "2022-10-17t09_05_47/913z/desktop",
-  :block/created-at 1666013373385,
-  :block/updated-at 1666013373385}
+  :block/created-at 1666015601914,
+  :block/updated-at 1666015601914}
  {:block/name "6314b676-0b87-432e-b035-bf52c9b1fad5",
-  :block/created-at 1666013373548,
-  :block/updated-at 1666013373548}
+  :block/created-at 1666015601955,
+  :block/updated-at 1666015601955}
  {:block/name "63208c02-5e09-444c-beaf-5628c1981257",
   :block/created-at 1665851827269,
   :block/updated-at 1665851827269}
