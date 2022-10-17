@@ -1,5 +1,5 @@
 :root {
-  --ct-code-font-family: "HackGen35"  ;
+  --ct-code-font-family: "HackGen35, Source Han Code JP"  ;
 }
 
 :not(pre)>code,
