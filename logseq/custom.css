@@ -1,8 +1,9 @@
 :root {
-  --ct-code-font-family: "HackGen35, Source Han Code JP"  ;
+  --ct-code-font-family: "HackGen35"  ;
 }
 
 :not(pre)>code,
 .CodeMirror {
-  font-family: var(--ct-code-font-family);
+  /*font-family: var(--ct-code-font-family);*/
+  font-family: "HackGen35", "Source Han Code JP"
 }
