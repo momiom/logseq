@@ -1,6 +1,6 @@
 [{:block/name "2022-08-25 thursday",
-  :block/created-at 1661421355673,
-  :block/updated-at 1661422974052}
+  :block/created-at 1666053032816,
+  :block/updated-at 1666053032816}
  {:block/name "2022-08-29 monday",
   :block/created-at 1661698815497,
   :block/updated-at 1661698815497}
@@ -32,17 +32,17 @@
   :block/created-at 1665966875691,
   :block/updated-at 1665966875691}
  {:block/name "2022-10-16t01_26_21/744z",
-  :block/created-at 1666016166368,
-  :block/updated-at 1666016166368}
+  :block/created-at 1666053032772,
+  :block/updated-at 1666053032772}
  {:block/name "2022-10-16t01_26_21/744z/desktop",
-  :block/created-at 1666016166368,
-  :block/updated-at 1666016166368}
+  :block/created-at 1666053032771,
+  :block/updated-at 1666053032771}
  {:block/name "2022-10-16t01_26_21/783z",
   :block/created-at 1665966875871,
   :block/updated-at 1665966875871}
  {:block/name "2022-10-16t01_26_21/783z/desktop",
-  :block/created-at 1666016166285,
-  :block/updated-at 1666016166285}
+  :block/created-at 1666053032796,
+  :block/updated-at 1666053032796}
  {:block/name "2022-10-16t01_26_21/784z",
   :block/created-at 1666016166255,
   :block/updated-at 1666016166255}
@@ -50,11 +50,11 @@
   :block/created-at 1666016166255,
   :block/updated-at 1666016166255}
  {:block/name "2022-10-16t01_26_21/872z",
-  :block/created-at 1666016166333,
-  :block/updated-at 1666016166333}
+  :block/created-at 1666053032758,
+  :block/updated-at 1666053032758}
  {:block/name "2022-10-16t01_26_21/872z/desktop",
-  :block/created-at 1666016166333,
-  :block/updated-at 1666016166333}
+  :block/created-at 1666053032758,
+  :block/updated-at 1666053032758}
  {:block/name "2022-10-16t13_31_34",
   :block/created-at 1666016166318,
   :block/updated-at 1666016166318}
@@ -77,11 +77,11 @@
   :block/created-at 1666016166341,
   :block/updated-at 1666016166341}
  {:block/name "2022-10-17t09_05_42/360z",
-  :block/created-at 1666016166412,
-  :block/updated-at 1666016166412}
+  :block/created-at 1666053032717,
+  :block/updated-at 1666053032717}
  {:block/name "2022-10-17t09_05_42/360z/desktop",
-  :block/created-at 1666016166412,
-  :block/updated-at 1666016166412}
+  :block/created-at 1666053032716,
+  :block/updated-at 1666053032716}
  {:block/name "2022-10-17t09_05_47",
   :block/created-at 1666016166217,
   :block/updated-at 1666016166217}
@@ -92,14 +92,17 @@
   :block/created-at 1666016166217,
   :block/updated-at 1666016166217}
  {:block/name "2022-10-17t09_05_47/913z",
-  :block/created-at 1666016166248,
-  :block/updated-at 1666016166248}
+  :block/created-at 1666053032746,
+  :block/updated-at 1666053032746}
  {:block/name "2022-10-17t09_05_47/913z/desktop",
-  :block/created-at 1666016166247,
-  :block/updated-at 1666016166247}
+  :block/created-at 1666053032745,
+  :block/updated-at 1666053032745}
+ {:block/name "2022-10-18 tuesday",
+  :block/created-at 1666018840559,
+  :block/updated-at 1666018840559}
  {:block/name "6314b676-0b87-432e-b035-bf52c9b1fad5",
-  :block/created-at 1666016166410,
-  :block/updated-at 1666016166410}
+  :block/created-at 1666053032711,
+  :block/updated-at 1666053032711}
  {:block/name "63208c02-5e09-444c-beaf-5628c1981257",
   :block/created-at 1665851827269,
   :block/updated-at 1665851827269}
@@ -109,6 +112,9 @@
  {:block/name "634ae1b3-e581-45c3-96bf-8ef704f1be78",
   :block/created-at 1665911695157,
   :block/updated-at 1665911695157}
+ {:block/name "634d83d9-e6fc-4389-b58b-fcb226d41cc3",
+  :block/created-at 1666024597433,
+  :block/updated-at 1666024597433}
  {:block/name "a",
   :block/created-at 1661421355373,
   :block/updated-at 1661421355373}
@@ -139,12 +145,12 @@
  {:block/name "favorites",
   :block/created-at 1661421355373,
   :block/updated-at 1661421355373}
- {:block/name "gitとは何か",
+ {:block/name "gitは分散型のvcsで全員が完全なプロジェクトを持つ",
   :block/created-at 1661776797510,
   :block/updated-at 1661917482151}
  {:block/name "git勉強会",
   :block/created-at 1661423462025,
-  :block/updated-at 1661777550030}
+  :block/updated-at 1666054533006}
  {:block/name "in-progress",
   :block/created-at 1661421355373,
   :block/updated-at 1661421355373}
@@ -181,15 +187,18 @@
  {:block/name "ケース想定",
   :block/created-at 1665851827161,
   :block/updated-at 1665851827161}
- {:block/name "コミットとは何か",
+ {:block/name "コミットとはある時点のプロジェクトのファイル群のスナップショットとメタデータを記録する操作",
   :block/created-at 1661777362217,
-  :block/updated-at 1665911510880}
- {:block/name "コミットはどう作られるのか",
+  :block/updated-at 1666053416359}
+ {:block/name "コミットはファイルとディレクトリのハッシュ値を連鎖的に記録する",
   :block/created-at 1665855785494,
   :block/updated-at 1665968285800}
- {:block/name "ブランチとは何か",
+ {:block/name "ブランチとは1つのコミットへのエイリアス",
   :block/created-at 1661777282893,
-  :block/updated-at 1661777387209}
+  :block/updated-at 1666076493416}
+ {:block/name "ブランチとは何か",
+  :block/created-at 1666053196373,
+  :block/updated-at 1666053196373}
  {:block/name "人が読みたいもの",
   :block/created-at 1662337997203,
   :block/updated-at 1662337997203}
