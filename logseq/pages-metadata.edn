@@ -7,102 +7,15 @@
  {:block/name "2022-09-01 thursday",
   :block/created-at 1662337997380,
   :block/updated-at 1662337997380}
- {:block/name "2022-09-12t02_57_20",
-  :block/created-at 1666016166235,
-  :block/updated-at 1666016166235}
- {:block/name "2022-09-12t02_57_20/508z",
-  :block/created-at 1666016166356,
-  :block/updated-at 1666016166356}
- {:block/name "2022-09-12t02_57_20/508z/desktop",
-  :block/created-at 1666016166356,
-  :block/updated-at 1666016166356}
- {:block/name "2022-09-12t02_57_20/750z",
-  :block/created-at 1666016166309,
-  :block/updated-at 1666016166309}
- {:block/name "2022-09-12t02_57_20/750z/desktop",
-  :block/created-at 1666016166308,
-  :block/updated-at 1666016166308}
- {:block/name "2022-09-12t02_57_20/751z",
-  :block/created-at 1666016166235,
-  :block/updated-at 1666016166235}
- {:block/name "2022-09-12t02_57_20/751z/desktop",
-  :block/created-at 1666016166234,
-  :block/updated-at 1666016166234}
  {:block/name "2022-10-16t01_26_21",
   :block/created-at 1665966875691,
   :block/updated-at 1665966875691}
- {:block/name "2022-10-16t01_26_21/744z",
-  :block/created-at 1666053032772,
-  :block/updated-at 1666053032772}
- {:block/name "2022-10-16t01_26_21/744z/desktop",
-  :block/created-at 1666053032771,
-  :block/updated-at 1666053032771}
  {:block/name "2022-10-16t01_26_21/783z",
   :block/created-at 1665966875871,
   :block/updated-at 1665966875871}
- {:block/name "2022-10-16t01_26_21/783z/desktop",
-  :block/created-at 1666053032796,
-  :block/updated-at 1666053032796}
- {:block/name "2022-10-16t01_26_21/784z",
-  :block/created-at 1666016166255,
-  :block/updated-at 1666016166255}
- {:block/name "2022-10-16t01_26_21/784z/desktop",
-  :block/created-at 1666016166255,
-  :block/updated-at 1666016166255}
- {:block/name "2022-10-16t01_26_21/872z",
-  :block/created-at 1666053032758,
-  :block/updated-at 1666053032758}
- {:block/name "2022-10-16t01_26_21/872z/desktop",
-  :block/created-at 1666053032758,
-  :block/updated-at 1666053032758}
- {:block/name "2022-10-16t13_31_34",
-  :block/created-at 1666016166318,
-  :block/updated-at 1666016166318}
- {:block/name "2022-10-16t13_31_34/909z",
-  :block/created-at 1666016166319,
-  :block/updated-at 1666016166319}
- {:block/name "2022-10-16t13_31_34/909z/desktop",
-  :block/created-at 1666016166318,
-  :block/updated-at 1666016166318}
- {:block/name "2022-10-17 monday",
-  :block/created-at 1665966873437,
-  :block/updated-at 1665966873437}
- {:block/name "2022-10-17t09_05_42",
-  :block/created-at 1666016166341,
-  :block/updated-at 1666016166341}
- {:block/name "2022-10-17t09_05_42/031z",
-  :block/created-at 1666016166341,
-  :block/updated-at 1666016166341}
- {:block/name "2022-10-17t09_05_42/031z/desktop",
-  :block/created-at 1666016166341,
-  :block/updated-at 1666016166341}
- {:block/name "2022-10-17t09_05_42/360z",
-  :block/created-at 1666053032717,
-  :block/updated-at 1666053032717}
- {:block/name "2022-10-17t09_05_42/360z/desktop",
-  :block/created-at 1666053032716,
-  :block/updated-at 1666053032716}
- {:block/name "2022-10-17t09_05_47",
-  :block/created-at 1666016166217,
-  :block/updated-at 1666016166217}
- {:block/name "2022-10-17t09_05_47/883z",
-  :block/created-at 1666016166217,
-  :block/updated-at 1666016166217}
- {:block/name "2022-10-17t09_05_47/883z/desktop",
-  :block/created-at 1666016166217,
-  :block/updated-at 1666016166217}
- {:block/name "2022-10-17t09_05_47/913z",
-  :block/created-at 1666053032746,
-  :block/updated-at 1666053032746}
- {:block/name "2022-10-17t09_05_47/913z/desktop",
-  :block/created-at 1666053032745,
-  :block/updated-at 1666053032745}
  {:block/name "2022-10-18 tuesday",
   :block/created-at 1666018840559,
   :block/updated-at 1666018840559}
- {:block/name "6314b676-0b87-432e-b035-bf52c9b1fad5",
-  :block/created-at 1666053032711,
-  :block/updated-at 1666053032711}
  {:block/name "63208c02-5e09-444c-beaf-5628c1981257",
   :block/created-at 1665851827269,
   :block/updated-at 1665851827269}
@@ -145,6 +58,9 @@
  {:block/name "favorites",
   :block/created-at 1661421355373,
   :block/updated-at 1661421355373}
+ {:block/name "gitとは何か",
+  :block/created-at 1666076535297,
+  :block/updated-at 1666076535297}
  {:block/name "gitは分散型のvcsで全員が完全なプロジェクトを持つ",
   :block/created-at 1661776797510,
   :block/updated-at 1661917482151}
@@ -190,6 +106,12 @@
  {:block/name "コミットとはある時点のプロジェクトのファイル群のスナップショットとメタデータを記録する操作",
   :block/created-at 1661777362217,
   :block/updated-at 1666053416359}
+ {:block/name "コミットとは何か",
+  :block/created-at 1666076535068,
+  :block/updated-at 1666076535068}
+ {:block/name "コミットはどう作られるのか",
+  :block/created-at 1666076535067,
+  :block/updated-at 1666076535067}
  {:block/name "コミットはファイルとディレクトリのハッシュ値を連鎖的に記録する",
   :block/created-at 1665855785494,
   :block/updated-at 1665968285800}
