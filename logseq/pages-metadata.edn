@@ -14,20 +14,20 @@
   :block/created-at 1668514819171,
   :block/updated-at 1668514819171}
  {:block/name "2022-09-12t02_57_20/508z/desktop",
-  :block/created-at 1668514819170,
-  :block/updated-at 1668514819170}
+  :block/created-at 1668523813073,
+  :block/updated-at 1668523813073}
  {:block/name "2022-09-12t02_57_20/750z",
   :block/created-at 1668514819361,
   :block/updated-at 1668514819361}
  {:block/name "2022-09-12t02_57_20/750z/desktop",
-  :block/created-at 1668514819360,
-  :block/updated-at 1668514819360}
+  :block/created-at 1668523813212,
+  :block/updated-at 1668523813212}
  {:block/name "2022-09-12t02_57_20/751z",
   :block/created-at 1668514819190,
   :block/updated-at 1668514819190}
  {:block/name "2022-09-12t02_57_20/751z/desktop",
-  :block/created-at 1668514819189,
-  :block/updated-at 1668514819189}
+  :block/created-at 1668523813003,
+  :block/updated-at 1668523813003}
  {:block/name "2022-10-16t01_26_21",
   :block/created-at 1665966875691,
   :block/updated-at 1665966875691}
@@ -35,26 +35,26 @@
   :block/created-at 1668514819154,
   :block/updated-at 1668514819154}
  {:block/name "2022-10-16t01_26_21/744z/desktop",
-  :block/created-at 1668514819153,
-  :block/updated-at 1668514819153}
+  :block/created-at 1668523813299,
+  :block/updated-at 1668523813299}
  {:block/name "2022-10-16t01_26_21/783z",
   :block/created-at 1665966875871,
   :block/updated-at 1665966875871}
  {:block/name "2022-10-16t01_26_21/783z/desktop",
-  :block/created-at 1666600009779,
-  :block/updated-at 1666600009779}
+  :block/created-at 1668523813042,
+  :block/updated-at 1668523813042}
  {:block/name "2022-10-16t01_26_21/784z",
   :block/created-at 1668514819405,
   :block/updated-at 1668514819405}
  {:block/name "2022-10-16t01_26_21/784z/desktop",
-  :block/created-at 1668514819405,
-  :block/updated-at 1668514819405}
+  :block/created-at 1668523813237,
+  :block/updated-at 1668523813237}
  {:block/name "2022-10-16t01_26_21/872z",
   :block/created-at 1668514819204,
   :block/updated-at 1668514819204}
  {:block/name "2022-10-16t01_26_21/872z/desktop",
-  :block/created-at 1668514819204,
-  :block/updated-at 1668514819204}
+  :block/created-at 1668523813225,
+  :block/updated-at 1668523813225}
  {:block/name "2022-10-16t13_31_34",
   :block/created-at 1668514819352,
   :block/updated-at 1668514819352}
@@ -62,8 +62,8 @@
   :block/created-at 1668514819353,
   :block/updated-at 1668514819353}
  {:block/name "2022-10-16t13_31_34/909z/desktop",
-  :block/created-at 1668514819352,
-  :block/updated-at 1668514819352}
+  :block/created-at 1668523812925,
+  :block/updated-at 1668523812925}
  {:block/name "2022-10-17t09_05_42",
   :block/created-at 1668514819324,
   :block/updated-at 1668514819324}
@@ -71,14 +71,14 @@
   :block/created-at 1668514819367,
   :block/updated-at 1668514819367}
  {:block/name "2022-10-17t09_05_42/031z/desktop",
-  :block/created-at 1668514819366,
-  :block/updated-at 1668514819366}
+  :block/created-at 1668523813015,
+  :block/updated-at 1668523813015}
  {:block/name "2022-10-17t09_05_42/360z",
   :block/created-at 1668514819324,
   :block/updated-at 1668514819324}
  {:block/name "2022-10-17t09_05_42/360z/desktop",
-  :block/created-at 1668514819323,
-  :block/updated-at 1668514819323}
+  :block/created-at 1668523813122,
+  :block/updated-at 1668523813122}
  {:block/name "2022-10-17t09_05_47",
   :block/created-at 1666600009808,
   :block/updated-at 1666600009808}
@@ -86,14 +86,14 @@
   :block/created-at 1666600009809,
   :block/updated-at 1666600009809}
  {:block/name "2022-10-17t09_05_47/883z/desktop",
-  :block/created-at 1666600009808,
-  :block/updated-at 1666600009808}
+  :block/created-at 1668523813162,
+  :block/updated-at 1668523813162}
  {:block/name "2022-10-17t09_05_47/913z",
   :block/created-at 1666600009909,
   :block/updated-at 1666600009909}
  {:block/name "2022-10-17t09_05_47/913z/desktop",
-  :block/created-at 1666600009909,
-  :block/updated-at 1666600009909}
+  :block/created-at 1668523813189,
+  :block/updated-at 1668523813189}
  {:block/name "2022-10-18t06_54_47",
   :block/created-at 1666600009698,
   :block/updated-at 1666600009698}
@@ -101,14 +101,14 @@
   :block/created-at 1668514819377,
   :block/updated-at 1668514819377}
  {:block/name "2022-10-18t06_54_47/290z/desktop",
-  :block/created-at 1668514819376,
-  :block/updated-at 1668514819376}
+  :block/created-at 1668523813181,
+  :block/updated-at 1668523813181}
  {:block/name "2022-10-18t06_54_47/324z",
   :block/created-at 1666600009838,
   :block/updated-at 1666600009838}
  {:block/name "2022-10-18t06_54_47/324z/desktop",
-  :block/created-at 1666600009837,
-  :block/updated-at 1666600009837}
+  :block/created-at 1668523813258,
+  :block/updated-at 1668523813258}
  {:block/name "2022-10-18t09_49_23",
   :block/created-at 1668514819424,
   :block/updated-at 1668514819424}
@@ -116,8 +116,8 @@
   :block/created-at 1668514819424,
   :block/updated-at 1668514819424}
  {:block/name "2022-10-18t09_49_23/356z/desktop",
-  :block/created-at 1668514819424,
-  :block/updated-at 1668514819424}
+  :block/created-at 1668523813282,
+  :block/updated-at 1668523813282}
  {:block/name "2022-10-19t00_09_26",
   :block/created-at 1668514819280,
   :block/updated-at 1668514819280}
@@ -125,8 +125,8 @@
   :block/created-at 1668514819280,
   :block/updated-at 1668514819280}
  {:block/name "2022-10-19t00_09_26/106z/desktop",
-  :block/created-at 1668514819280,
-  :block/updated-at 1668514819280}
+  :block/created-at 1668523813199,
+  :block/updated-at 1668523813199}
  {:block/name "2022-10-19t00_36_38",
   :block/created-at 1668514819394,
   :block/updated-at 1668514819394}
@@ -136,12 +136,12 @@
  {:block/name "2022-10-19t00_36_38/499z/desktop",
   :block/created-at 1668514819394,
   :block/updated-at 1668514819394}
- {:block/name "2022-10-24 monday",
-  :block/created-at 1666538061853,
-  :block/updated-at 1666538061853}
  {:block/name "2022-11-15 tuesday",
   :block/created-at 1668514818784,
-  :block/updated-at 1668514818784}
+  :block/updated-at 1668523665553}
+ {:block/name "2022-11-16 wednesday",
+  :block/created-at 1668583200812,
+  :block/updated-at 1668583200812}
  {:block/name "6314b676-0b87-432e-b035-bf52c9b1fad5",
   :block/created-at 1668514819321,
   :block/updated-at 1668514819321}
@@ -247,6 +247,9 @@
  {:block/name "コミットはファイルとディレクトリのハッシュ値を連鎖的に記録する",
   :block/created-at 1666138166538,
   :block/updated-at 1666154471427}
+ {:block/name "タイムカード案",
+  :block/created-at 1668583273082,
+  :block/updated-at 1668583462685}
  {:block/name "ブランチとは1つのコミットへのエイリアス",
   :block/created-at 1661777282893,
   :block/updated-at 1666076493416}
